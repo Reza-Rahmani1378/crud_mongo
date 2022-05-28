@@ -9,12 +9,16 @@ public interface UserService {
     // Create the user
     User add(User user);
 
+    void update(User user);
+
     // Read the user
-    User getUserByUsername(String username);
+    User findUserById(String id);
 
     List<User> getAll();
 
-    void deleteUser(String username);
+    void deleteUserById(String id);
 
     Boolean existUserByUsername(String username);
+
+    User getUserByUsername(String username);
 }

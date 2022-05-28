@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="443746d4-19cf-4661-bbe4-eda56aefb609" name="Changes" comment="Add needed files for Crud Project with Mongodb and Spring boot Application." />
+    <list default="true" id="443746d4-19cf-4661-bbe4-eda56aefb609" name="Changes" comment="Add needed files for Crud Project with Mongodb and Spring boot Application.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/crud/src/main/java/com/vasl/crud/api/controller/CrudController.java" beforeDir="false" afterPath="$PROJECT_DIR$/crud/crud/src/main/java/com/vasl/crud/api/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/crud/src/main/java/com/vasl/crud/api/facade/CrudFacade.java" beforeDir="false" afterPath="$PROJECT_DIR$/crud/crud/src/main/java/com/vasl/crud/api/facade/UserFacade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/crud/src/main/java/com/vasl/crud/api/facade/mapper/CrudFacadeMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/crud/crud/src/main/java/com/vasl/crud/api/facade/mapper/UserFacadeMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/crud/src/main/java/com/vasl/crud/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/crud/crud/src/main/java/com/vasl/crud/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/crud/src/main/java/com/vasl/crud/service/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/crud/crud/src/main/java/com/vasl/crud/service/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/crud/target/generated-sources/annotations/com/vasl/crud/api/facade/mapper/CrudFacadeMapperImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/crud/target/generated-sources/annotations/com/vasl/crud/api/facade/mapper/UserFacadeMapperImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/crud/crud/target/generated-sources/annotations/com/vasl/crud/api/facade/mapper/UserFacadeMapperImpl.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1653714829756</updated>
       <workItem from="1653714838519" duration="144000" />
+      <workItem from="1653719346733" duration="3226000" />
     </task>
     <task id="LOCAL-00001" summary="Add needed files for Crud Project with Mongodb and Spring boot Application.">
       <created>1653714970165</created>
@@ -52,7 +62,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653714970166</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add needed files for Crud Project with Mongodb and Spring boot Application.">
+      <created>1653719386727</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1653719386727</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -68,6 +85,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
