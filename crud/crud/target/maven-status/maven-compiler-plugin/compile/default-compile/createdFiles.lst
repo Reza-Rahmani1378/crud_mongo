@@ -1,0 +1,12 @@
+com\vasl\crud\service\UserServiceImpl.class
+com\vasl\crud\api\dto\UserOutputModel.class
+com\vasl\crud\api\facade\mapper\CrudFacadeMapperImpl.class
+com\vasl\crud\api\controller\CrudController.class
+com\vasl\crud\service\UserService.class
+com\vasl\crud\dal\entity\User.class
+com\vasl\crud\dal\entity\User$UserBuilder.class
+com\vasl\crud\api\facade\mapper\CrudFacadeMapper.class
+com\vasl\crud\api\dto\UserInputModel.class
+com\vasl\crud\api\facade\CrudFacade.class
+com\vasl\crud\CrudApplication.class
+com\vasl\crud\dal\repository\UserRepository.class
